@@ -7765,7 +7765,7 @@ metadata:
     label_title: A Mosquito in the Ear
     sort_title: Mosquito in the Ear
     release_year: '2026'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/734871
     tpdb_search: https://theposterdb.com/search?term=A+Mosquito+in+the+Ear&section=movies
     genre.sync:
       - Drama
@@ -10324,7 +10324,7 @@ metadata:
     label_title: Shin Godzilla
     sort_title: Shin Godzilla
     release_year: '2016'
-    url_poster: ''
+    url_poster: https://theposterdb.com/api/assets/62752
     tpdb_search: https://theposterdb.com/search?term=Shin+Godzilla&section=movies
     genre.sync:
       - Action

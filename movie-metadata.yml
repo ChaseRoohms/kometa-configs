@@ -7761,6 +7761,14 @@ metadata:
     tpdb_search: https://theposterdb.com/search?term=The+Mortuary+Assistant&section=movies
     genre.sync:
       - Horror
+  1288220:
+    label_title: A Mosquito in the Ear
+    sort_title: Mosquito in the Ear
+    release_year: '2026'
+    url_poster: ''
+    tpdb_search: https://theposterdb.com/search?term=A+Mosquito+in+the+Ear&section=movies
+    genre.sync:
+      - Drama
   1481608:
     label_title: Mother of Flies
     sort_title: Mother of Flies
